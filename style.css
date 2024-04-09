@@ -1,0 +1,21 @@
+
+body{
+    background: lightpink;
+}
+
+#align{
+text-align: center;
+}
+
+h1{
+    color: white;
+    background-color:palevioletred;
+    padding: 15px;
+}
+
+
+footer{
+    position: static;
+    background-color: plum;
+    padding: 20px;
+}
